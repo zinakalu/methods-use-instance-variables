@@ -18,3 +18,6 @@ public class PoorDogTestDrive{
     }
 }
 
+int calcArea(int height, int width){
+    return height*width;
+}
